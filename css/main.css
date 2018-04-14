@@ -1,0 +1,289 @@
+.color1 {
+  color: #42514c; }
+
+.color2 {
+  color: #ffffff; }
+
+.color3 {
+  color: #78B7BB; }
+
+.color4 {
+  color: #9A9B94; }
+
+.main_container .s1 {
+  text-align: center;
+  background: #ffffff; }
+  .main_container .s1 .s1Titulo1 {
+    font-family: "JosefinSans-Regular";
+    font-size: 12px;
+    margin-top: 70px;
+    text-align: center;
+    color: #808080; }
+  .main_container .s1 .s1Box1 {
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    margin: auto; }
+    .main_container .s1 .s1Box1 .s1Box2 {
+      width: 47%;
+      margin: 0% 3% 0% 5%;
+      display: flex;
+      overflow: hidden;
+      flex-wrap: wrap;
+      flex-direction: column; }
+      .main_container .s1 .s1Box1 .s1Box2 .s1Titulo2 {
+        font-family: "Merriweather-Light";
+        font-size: 29px;
+        font-weight: 400;
+        text-align: right; }
+      .main_container .s1 .s1Box1 .s1Box2 .s1Images {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        margin-top: 25px; }
+        .main_container .s1 .s1Box1 .s1Box2 .s1Images img {
+          vertical-align: top;
+          height: 50%;
+          width: 48%; }
+    .main_container .s1 .s1Box1 .s1Box3 {
+      width: 47%;
+      margin: 0% 5% 0% 0%; }
+      .main_container .s1 .s1Box1 .s1Box3 p {
+        font-size: 18px;
+        color: #808080;
+        line-height: 30px;
+        text-align: left;
+        font-family: "JosefinSans-Light"; }
+.main_container .s2 {
+  text-align: center;
+  background: #ffffff; }
+  .main_container .s2 .s2Box1 {
+    background: url("../img/s2_1.jpg") #ffffff;
+    background-repeat: no-repeat;
+    vertical-align: top;
+    background-position: center;
+    margin: 0px auto;
+    width: 100%;
+    min-height: 400px;
+    max-height: 400px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 50px; }
+    .main_container .s2 .s2Box1 .s2Titulo {
+      font-family: "Merriweather-Light";
+      font-weight: 300;
+      margin: 60px 0px;
+      font-size: 28px; }
+  .main_container .s2 .s2Lists {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; }
+    .main_container .s2 .s2Lists .s2List1 {
+      padding: 0px;
+      list-style: none;
+      line-height: 30px; }
+      .main_container .s2 .s2Lists .s2List1 .s2Item {
+        font-family: "JosefinSans-Regular";
+        font-size: 12px;
+        font-weight: 600; }
+    .main_container .s2 .s2Lists .s2List2 {
+      padding: 0px;
+      list-style: none;
+      line-height: 30px; }
+      .main_container .s2 .s2Lists .s2List2 .s2Item {
+        font-family: "JosefinSans-Regular";
+        font-size: 12px;
+        font-weight: 600; }
+    .main_container .s2 .s2Lists .s2List1 {
+      margin: 45px 140px 0px 0px; }
+    .main_container .s2 .s2Lists .s2List2 {
+      margin: 45px 0px 0px 140px; }
+.main_container .s3 {
+  background: url("../img/s3_2.png") #ffffff;
+  background-repeat: repeat; }
+  .main_container .s3 .s3Box1 {
+    width: 1000px;
+    margin: 0px auto;
+    min-height: 740px;
+    max-height: 740px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    overflow: hidden;
+    padding-top: 130px; }
+    .main_container .s3 .s3Box1 .s3Box2 {
+      width: 50%;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      margin-top: 80px;
+      padding: 0% 3% 0% 10%; }
+      .main_container .s3 .s3Box1 .s3Box2 .s3T1 {
+        font-size: 12px;
+        color: #808080;
+        font-family: "JosefinSans-Regular"; }
+      .main_container .s3 .s3Box1 .s3Box2 .s3T2 {
+        font-family: "Merriweather-Light"; }
+      .main_container .s3 .s3Box1 .s3Box2 .s3P1 {
+        font-family: "JosefinSans-Light";
+        font-size: 18px;
+        color: #808080;
+        line-height: 30px;
+        font-weight: 300; }
+    .main_container .s3 .s3Box1 .s3Box3 {
+      width: 50%; }
+      .main_container .s3 .s3Box1 .s3Box3 img {
+        vertical-align: top;
+        width: 95%; }
+.main_container .s4 {
+  text-align: center;
+  background: #ffffff;
+  background: url("../img/s4_1.png") #ffffff;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: hidden; }
+  .main_container .s4 .s4Box1 {
+    width: 1000px;
+    margin: 70px auto;
+    max-height: 600px;
+    min-height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; }
+    .main_container .s4 .s4Box1 .s4Titulo {
+      font-family: "Merriweather-Light";
+      font-size: 29px; }
+    .main_container .s4 .s4Box1 p {
+      margin: 20px 20px;
+      font-family: "JosefinSans-Light";
+      font-size: 18px;
+      color: #808080;
+      line-height: 30px;
+      font-weight: 300; }
+    .main_container .s4 .s4Box1 .boton {
+      font-family: "Raleway-Bold";
+      border: none;
+      padding: 15px 15px;
+      background: #484848;
+      margin-top: 30px;
+      margin: 0px auto;
+      cursor: pointer; }
+    .main_container .s4 .s4Box1 .boton:hover {
+      background: #8e8e8e; }
+    .main_container .s4 .s4Box1 .info {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      margin: 60px 0px; }
+      .main_container .s4 .s4Box1 .info .s4Box {
+        font-size: 12px;
+        color: #7b8c89; }
+
+.footer_container {
+  width: 100%;
+  background: #f9f9f9;
+  max-height: 300px;
+  min-height: 300px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+  .footer_container .img {
+    margin: 0px auto;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    vertical-align: top; }
+  .footer_container .nave {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; }
+    .footer_container .nave a {
+      text-decoration: none;
+      color: #5199a8;
+      font-size: 12px;
+      font-family: "JosefinSans-Regular";
+      margin: 0px 25px;
+      font-weight: bold; }
+
+.header_container {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden; }
+  .header_container .menu {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    flex-wrap: wrap;
+    margin-bottom: 40px; }
+    .header_container .menu .titulo {
+      font-family: "Tangerine-Regular";
+      color: #76b3b8;
+      font-size: 60px;
+      text-align: center;
+      margin-top: 40px;
+      margin-bottom: 15px; }
+    .header_container .menu .nave {
+      display: inline-block; }
+      .header_container .menu .nave a {
+        text-decoration: none;
+        font-size: 12px;
+        margin: 0px 2px;
+        font-family: "JosefinSans-Light";
+        padding: 10px 11px;
+        border-radius: 3px; }
+      .header_container .menu .nave a:hover {
+        background: #E9E9E5;
+        color: #000000; }
+  .header_container .hBox1 {
+    background: url("../img/b5.jpg") #ffffff;
+    background-repeat: no-repeat;
+    vertical-align: top;
+    background-position: center;
+    width: 100%;
+    max-height: 600px;
+    min-height: 600px; }
+    .header_container .hBox1 .titulos {
+      text-align: center;
+      margin-top: 160px;
+      font-family: "JosefinSans-Light"; }
+      .header_container .hBox1 .titulos .t1 {
+        font-size: 15px; }
+      .header_container .hBox1 .titulos .t2 {
+        margin: 5px;
+        font-size: 65px; }
+    .header_container .hBox1 .boton {
+      font-family: "Raleway-Bold";
+      font-size: 12px;
+      border: none;
+      padding: 10px 15px;
+      background: #5199a8;
+      margin-top: 30px;
+      cursor: pointer; }
+    .header_container .hBox1 .boton:hover {
+      background: #8dc7d3; }
+
+@font-face {
+  src: url("../fonts/Tangerine-Regular.ttf");
+  font-family: "Tangerine-Regular"; }
+@font-face {
+  src: url("../fonts/JosefinSans-Light.ttf");
+  font-family: "JosefinSans-Light"; }
+@font-face {
+  src: url("../fonts/JosefinSans-Regular.ttf");
+  font-family: "JosefinSans-Regular"; }
+@font-face {
+  src: url("../fonts/Merriweather-Light.ttf");
+  font-family: "Merriweather-Light"; }
+@font-face {
+  src: url("../fonts/Raleway-Bold.ttf");
+  font-family: "Raleway-Bold"; }
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/*# sourceMappingURL=main.css.map */
